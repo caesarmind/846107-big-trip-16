@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Archil Gogia](https://up.htmlacademy.ru/ecmascript/16/user/846107).
-* Наставник: `Александра Яковина`.
+* Наставник: [`Александра Яковина`](https://htmlacademy.ru/profile/sashayakovyna).
 
 ---
 
